@@ -1,0 +1,7 @@
+{ 
+  "id": "efouts",
+  "groups": ["sysadmin"],
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAsg9yIqHToK/xOifTg8+8k+LD2yg/HAgeJcU42IO7oltY3PKXWoJF4YJYvZqGs+SpqqSSMDq7lYUkVg0sbOnFPUiobg8GW5+l3a8m7JKeMAXsXEuY8TUXvutMrTm6PlpEWQEKFokyuJEtaEYiAf0Z86iLVsD81+2qFcmzOQuovIkTjhvbzZi7ZkajYXb1x/IELCS2hMSOD4WQdRrC2qow6ZtBbpH1yhrOwSkkNTs1mXwbU9NVPf6vgZs/pMR6msjEJqFDZVJ0HzuT9qA31m80WXUd1Up+gk+I4gvpxEJF/59Qs9/dgSA+4MsPxtpI8cbkHvGh0SsT8bLAuMAx0wCm2w=="
+  ]
+} 
